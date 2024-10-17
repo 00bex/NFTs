@@ -1,0 +1,57 @@
+body{  
+    background-color: #0d1928;   
+}
+.main_body{ 
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+   
+    width: 37vh;
+    height: 60vh;
+    background-color: #151e3d;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 80px;
+}
+.icon1{
+    width: 270px;
+    height: 200px;
+    border-radius: 10px;
+    
+    
+    
+}
+.equilibrum_txt{
+    color: white;
+    
+}
+.paragraph_txt{
+    color: grey;
+    
+    font-size: 15px;
+}
+.eth_value{
+    color: aqua;
+    
+}
+.time_txt{
+    color: grey;
+}
+.icon2{
+    width: 40px;
+    height: 40px;
+    
+    
+}
+.about1{
+    color: white;
+    
+
+}
+.about2{
+    color: grey;
+}
